@@ -35,4 +35,4 @@ I'm thrilled to have you here. FOX Techniques is a hub for innovative data servi
 
 ## 🔥 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox-techniques&hide_progress=false&theme=slateorange)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox-techniques&hide_progress=false&theme=shadow_blue)
