@@ -14,9 +14,11 @@
 </a>
 </div>
 
+Hi there!!! 👋🏻
+
 I'm thrilled to have you here. FOX Techniques is a hub for innovative data services, analytics, and solutions, combining technical expertise with a passion for solving real-world challenges. Whether you're looking for insightful analytics, cutting-edge visualization tools, or cloud-based data solutions, you're in the right place.
 
-## 🛠 Language and tools
+## 🛠️ Language & Tools
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  style="margin-right: 5px;"/>
@@ -33,6 +35,11 @@ I'm thrilled to have you here. FOX Techniques is a hub for innovative data servi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="GIT logo" style="margin-right: 5px;"/>
 </div>
 
-## 🔥 Stats
+## 🚀 Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox-techniques&hide_progress=false&theme=shadow_blue)
+<a href="https://fox-techniques.github.io/irene-sankey/" alt="Irene-Sankey Documentation">
+    <img src="assets/logos/irene_sankey_logo.png" alt="Irene-Sankey Logo" width="100">         
+</a>
+<a href="https://fox-techniques.github.io/athena-recruitment-analytics/" alt="ATHENA Documentation">
+    <img src="assets/logos/athena_logo.png" alt="ATHENA Logo" width="100">         
+</a>
