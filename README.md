@@ -40,8 +40,11 @@ I'm thrilled to have you here. FOX Techniques is a hub for innovative data servi
 ## 🚀 Projects
 
 <a href="https://fox-techniques.github.io/irene-sankey/" alt="Irene-Sankey Documentation">
-    <img src="assets/logos/irene-sankey_logo.png" alt="Irene-Sankey Logo" width="100">         
+    <img src="assets/logos/irene-sankey_logo.png" alt="Irene-Sankey Logo" width="100" />         
 </a>
 <a href="https://fox-techniques.github.io/athena-recruitment-analytics/" alt="ATHENA Documentation">
-    <img src="assets/logos/athena_logo.png" alt="ATHENA Logo" width="100">         
-</a><img src="assets/logos/coming-soon_logo.png" alt="COMING SOON Logo" width="100">         
+    <img src="assets/logos/athena_logo.png" alt="ATHENA Logo" width="100" />         
+</a>
+<a href="https://github.com/fox-techniques" alt="STAY TUNED">
+    <img src="assets/logos/coming-soon_logo.png" alt="COMING SOON Logo" width="100" />
+</a>
