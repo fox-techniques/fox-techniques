@@ -44,5 +44,4 @@ I'm thrilled to have you here. FOX Techniques is a hub for innovative data servi
 </a>
 <a href="https://fox-techniques.github.io/athena-recruitment-analytics/" alt="ATHENA Documentation">
     <img src="assets/logos/athena_logo.png" alt="ATHENA Logo" width="100">         
-</a>
-<img src="assets/logos/coming-soon_logo.png" alt="COMING SOON Logo" width="100">         
+</a><img src="assets/logos/coming-soon_logo.png" alt="COMING SOON Logo" width="100">         
