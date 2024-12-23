@@ -1,16 +1,6 @@
 
 # Welcome to FOX Techniques! 
 
-<div align="center" style="margin: 10px">
-
-<a href="https://www.linkedin.com/company/fox-techniques/" alt="FOX Techniques LinkedIn">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height=20 style="margin-right: 10px;"/> 
-</a>
-<a href="https://x.com/foxtechniques" alt="FOX Techniques Twitter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height=20 style="margin-right: 10px;"/>           
-</a>
-</div>
-
 ### 👋🏻 Hi there, 
 
 I'm thrilled to have you here. FOX Techniques is a hub for innovative data services, analytics, and solutions, combining technical expertise with a passion for solving real-world challenges. Whether you're looking for insightful analytics, cutting-edge visualization tools, or cloud-based data solutions, you're in the right place.
