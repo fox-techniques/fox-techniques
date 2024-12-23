@@ -9,9 +9,6 @@
 <a href="https://x.com/foxtechniques" alt="FOX Techniques Twitter">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height=20 style="margin-right: 10px;"/>           
 </a>
-<a href="https://join.slack.com/t/foxtechniques/shared_invite/zt-2u2urm0gw-a4Av_jROtAmyKTmQ~gZEkw" alt="Join FOX Techniques Slack Workspace">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height=20 style="margin-right: 10px;"/>
-</a>
 </div>
 
 ### 👋🏻 Hi there, 
