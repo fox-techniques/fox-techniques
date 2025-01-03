@@ -29,6 +29,9 @@ I'm thrilled to have you here. FOX Techniques is a hub for innovative data servi
 
 ## 🚀 Projects
 
+<a href="https://github.com/fox-techniques" alt="FOX Techniques Profile">
+    <img src="assets/logos/coming-soon_logo.png" alt="Coming soon" width="100" />         
+</a>
 <a href="https://fox-techniques.github.io/plutus-pairtrading/" alt="PLUTUS Documentation">
     <img src="assets/logos/plutus_logo.png" alt="PLUTUS Logo" width="100" />         
 </a>
