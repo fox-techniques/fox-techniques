@@ -1,7 +1,7 @@
 
 # Welcome to FOX Techniques! 
 
-### 👋🏻 Hi there, 
+### 👋 Hi there, 
 
 I'm thrilled to have you here. FOX Techniques is a hub for innovative data services, analytics, and solutions, combining technical expertise with a passion for solving real-world challenges. Whether you're looking for insightful analytics, cutting-edge visualization tools, or cloud-based data solutions, you're in the right place.
 
