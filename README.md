@@ -49,14 +49,17 @@ I'm thrilled to have you here. FOX Techniques is a hub for innovative data servi
 ## 🚀 Projects
 
 <a href="https://github.com/fox-techniques" alt="FOX Techniques Profile">
-    <img src="assets/logos/coming-soon_logo.png" alt="Coming soon" width="100" />         
+    <img src="assets/logos/coming-soon_flyer.png" alt="Coming soon" width="100" />         
+</a>
+<a href="https://fox-techniques.github.io/janux-auth-gateway/" alt="JANUX Documentation">
+    <img src="assets/logos/janux_flyer.png" alt="JANUX Flyer" width="100" />         
 </a>
 <a href="https://fox-techniques.github.io/plutus-pairtrading/" alt="PLUTUS Documentation">
-    <img src="assets/logos/plutus_logo.png" alt="PLUTUS Logo" width="100" />         
+    <img src="assets/logos/plutus_flyer.png" alt="PLUTUS Flyer" width="100" />         
 </a>
 <a href="https://fox-techniques.github.io/athena-recruitment-analytics/" alt="ATHENA Documentation">
-    <img src="assets/logos/athena_logo.png" alt="ATHENA Logo" width="100" />         
+    <img src="assets/logos/athena_flyer.png" alt="ATHENA Flyer" width="100" />         
 </a>
 <a href="https://fox-techniques.github.io/irene-sankey/" alt="Irene-Sankey Documentation">
-    <img src="assets/logos/irene-sankey_logo.png" alt="Irene-Sankey Logo" width="100" />         
+    <img src="assets/logos/irene-sankey_flyer.png" alt="IRENE-Sankey Flyer" width="100" />         
 </a>
