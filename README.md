@@ -50,9 +50,6 @@ I'm thrilled to have you here. **FOX Techniques** is a hub for **Cloud, Automati
 
 ## 🚀 Projects
 
-<a href="https://github.com/fox-techniques" alt="FOX Techniques Profile">
-    <img src="assets/logos/coming-soon_flyer.png" alt="Coming soon" width="100" />         
-</a>
 <a href="https://fox-techniques.github.io/janux-auth-gateway/" alt="JANUX Documentation">
     <img src="assets/logos/janux_flyer.png" alt="JANUX Flyer" width="100" />         
 </a>
