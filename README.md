@@ -50,7 +50,7 @@ I'm thrilled to have you here. **FOX Techniques** is a hub for **Cloud, Automati
 
 ## 🚀 Projects
 
-<a href="https://github.com/fox-techniques" alt="HESTIA Documentation">
+<a href="https://github.com/fox-techniques/hestia-logger" alt="HESTIA GitHub">
     <img src="assets/logos/hestia_flyer.png" alt="HESTIA Flyer" width="100" />         
 </a>
 <a href="https://fox-techniques.github.io/janux-auth-gateway/" alt="JANUX Documentation">
