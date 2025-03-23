@@ -14,6 +14,7 @@ I'm thrilled to have you here. **FOX Techniques** is a hub for **Cloud, Automati
 #### **Software Engineering & Frameworks**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" style="margin-right: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="40" alt="Plotly" style="margin-right: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" height="40" alt="OAuth2" style="margin-right: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Flask" style="margin-right: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" style="margin-right: 5px;"/>
@@ -25,8 +26,10 @@ I'm thrilled to have you here. **FOX Techniques** is a hub for **Cloud, Automati
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="SQL" style="margin-right: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" style="margin-right: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" style="margin-right: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="40" alt="Plotly" style="margin-right: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" style="margin-right: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="ElasticSearch" style="margin-right: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" height="40" alt="Kibana" style="margin-right: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="40" alt="Kibana" style="margin-right: 5px;"/>
+
 
 #### **Cloud Services & DevOps**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="Azure" style="margin-right: 5px;"/>
